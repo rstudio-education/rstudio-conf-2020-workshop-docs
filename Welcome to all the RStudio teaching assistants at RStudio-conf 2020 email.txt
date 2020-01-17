@@ -1,0 +1,32 @@
+From: Carl Howe <carl@rstudio.com>
+Subject: Welcome to all the RStudio teaching assistants at RStudio::conf 2020
+Date: August 15, 2019 at 3:07:10 PM EDT
+To: yim@rstudio.com, Daniel Chen <daniel.chen@rstudio.com>, grace@rstudio.com, Kelly O'Briant <kelly.obriant@rstudio.com>, josiah@rstudio.com, maya@rstudio.com, nichole@rstudio.com, desiree@rstudio.com, Mara Averick <mara@rstudio.com>, alex.gold@rstudio.com, carson@rstudio.com, thomas.pedersen@rstudio.com, Thomas Mock <thomas@rstudio.com>, greg.lin@rstudio.com, ron@rstudio.com, joyce@rstudio.com, therese@rstudio.com, daniel.rodriguez@rstudio.com, max.held@rstudio.com, Romain Francois <romain@rstudio.com>, Hadrien Dykiel <hadrien@rstudio.com>, ingrid@rstudio.com, Samantha Toet <samantha@rstudio.com>, Ian Pylvainen <ian@rstudio.com>, barret@rstudio.com, taner@rstudio.com
+
+Hi all,
+
+First of all, thank you all for signing up to be a TA at rstudio::conf 2020. This email is your official confirmation that we're counting on you to attend and that you'll be one of the more than 100 instructors and TAs we have running workshops this year. Assuming we sell out the workshops (and we always have in the past), you'll be helping us host more than 1,500 workshop students at the conference. Your willingness to help is part of what makes this a unique and valuable event.
+
+While we can now confirm that you'll be helping teach a workshop, we can't yet confirm which workshop you'll be participating in. We'll be assigning TAs to workshops based on the number of students in each workshop, and at this point, we don't yet know which workshops will have the most students and will require the most TAs. We'll do our best to honor the preferences that you listed in the application form, but we can't guarantee any workshop assignments until late fall.
+
+For the moment, though, I just want to provide a couple of logistical details as we head into the fall so you can make plans:
+
+1. Please arrive by mid-afternoon Sunday, January 26! When you make flight arrangements for San Francisco, please be sure to arrive early enough so that you can attend the instructor/TA pre-workshop briefing on Sunday afternoon, January 26, 2020,  at 5 PM Pacific Standard Time (I'll send an invitation). At that meeting, we'll run down all the logistics for the workshops with all instructors and TAs, including how we can handle AV issues, room climate problems, code of conduct violations, etc. PLEASE make every effort to attend this meeting; it will simplify your (and my) life for the next two days.
+
+2. Please let us know your hotel stay details. RStudio will pay for you to stay at the San Francisco Hilton Union Square from Sunday, January 26 through to the day after the end of the conference on Friday, January 31. Please let us know your hotel stay details by filling out the form below so that we can provide this information to the hotel.
+
+https://forms.gle/wJAfrDkN8rZPP6QK8
+
+Please fill out the form even if you intend to stay in San Francisco with friends or family; we want to make certain that everyone has a place to stay.
+
+3. Plan on using Expensify for expenses. Your hotel charges will be paid by RStudio during the conference, but you should plan on entering the rest of your expenses through Expensify for reimbursement. This will be true even for interns and TAs who don't work for RStudio any longer. We'll provide more details as we get closer to the conference.
+
+Again, thank you for your help, and we look forward to a fabulous event!
+Carl
+Carl Howe
+Director of Education,
+RStudio, Inc.
+carl@rstudio.com
++1 (617) 515-1819
+
+

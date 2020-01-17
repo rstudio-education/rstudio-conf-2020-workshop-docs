@@ -1,0 +1,32 @@
+From: Carl Howe <carl@rstudio.com>
+Subject: RStudio::conf(2020): teaching assistant assignments for workshops posted
+Date: January 6, 2020 at 4:26:09 PM EST
+To: Thomas Pedersen <thomas.pedersen@rstudio.com>, Mara Averick <mara@rstudio.com>, dewey.dunnington@gmail.com, Arie Spirgel <spirgel@gmail.com>, Grace Lawley <gracelawley@gmail.com>, Maximilian Held <info@maxheld.de>, Yim Register <yreg@uw.edu>, tanders@usc.edu, Barret Schloerke <barret@rstudio.com>, ycherka@its.jnj.com, marlycormar@ufl.edu, jyu21@ncsu.edu, Frans van Dunné <frans@ixpantia.com>, Alex Gold <alex.gold@rstudio.com>, taner@rstudio.com, marijulie.martinez@upr.edu, Julia Blum <juliablum@gmail.com>, ingrid@rstudio.com, colin@jumpingrivers.com, François Michonneau <francois.michonneau@gmail.com>, daniel.rodriguez@rstudio.com, Douglas Ashton <dashton@mango-solutions.com>, omayma.saeed@gmail.com, Rick Scavetta <office@scavetta.academy>, nichole@rstudio.com, "Maria Tackett, Ph.D." <maria.tackett@duke.edu>, gavago@gmail.com, jesse.maegan@gmail.com, bbaumer@smith.edu, mflick@umich.edu, mike.k.smith@pfizer.com, Daniel Chen <dcheny@gmail.com>, Desirée De Leon <dcossyl@emory.edu>, Josiah Parry <josiah@rstudio.com>, Gwynn Sturdevant <nzgwynn@gmail.com>, jaffe.maya@gmail.com, carson@rstudio.com, colin@thinkr.fr, Nicholas Strayer <nick.strayer@gmail.com>, Thomas Mock <thomas@rstudio.com>, Angela Li <angelali921@gmail.com>, Dennis Irorere <denironyx@gmail.com>, jindra@jla-data.net, greg.lin@rstudio.com, Samantha Toet <samantha@rstudio.com>, amy17519@gmail.com, jcouture@bren.ucsb.edu, afflerbach@nceas.ucsb.edu, Hadrien Dykiel <hadrien@rstudio.com>, "Mayer, Melanie" <mm4963@cumc.columbia.edu>, jienagu90@gmail.com, Adi Sarid <adi@sarid-ins.co.il>, Kelly O'Briant <kelly.obriant@rstudio.com>, Ian Pylvainen <ian@rstudio.com>, Dean Attali <daattali@gmail.com>, rpruim@calvin.edu, homer_white@georgetowncollege.edu, Sara Altman <skaltman@stanford.edu>, jeroen@cropland.be, emil.h.hvitfeldt@gmail.com, kasia.kulma@aviva.com, Rhian Davies <rhian@jumpingrivers.com>, "Lear, Phillip" <Phillip.Lear@kellogg.com>, mitch.ohara-wild@monash.edu, Steven Lawrence <itws.lawrence@gmail.com>, Theo Roe <theo@jumpingrivers.com>, mejrow@gmail.com, Sean Kross <smk240@gmail.com>, hannah.frick@gmx.de
+
+Hi all,
+
+Happy New Year! It's now January, so it's finally time to roll out preliminary TA assignments for the rstudio::conf 2020 workshops!
+
+Before I give you your assignments, I must apologize that it was not possible to give every TA the workshop they expressed a preference for when they signed up. I had to match those preferences with workshop requirements, instructor requests, and our desire to provide an inclusive teaching team in each room. While I was able to satisfy the vast majority of TA preferences, the constraints of staffing all 19 workshops simply didn't allow me to accommodate all. We appreciate your flexibility in trying to satisfy all these requirements.
+
+Here's a quick rundown of how to interpret the assignments list:
+	1.	This list is a first draft. This list is still preliminary and is subject to change as registrations and room assignments change as we approach the conference. I will also be adding some "backup TAs" who can fill in in the case of illness or family emergencies. Note that the list has a column labeled "revision_date" that will allow you to detect if and when changes to TA assignments have been made. I'll also send confirmation emails any time a TA assignment is changed.
+	2.	Room sizes determine TA numbers. Workshop room sizes were driven by a forecast of total registration demand and conference room availability within the hotel. The number of people we expect to be in your course can be found in the "seats" column. As a rule, we assigned a minimum of 1 TA to courses with 25 seats, 3 TAs for courses with 65 seats, and 4 TAs for those with 90 seats. The exception to all these rules is Applied Machine Learning which has 180 seats; we've assigned 10 TAs to that course to help manage that particularly large workshop.
+	3.	I've assigned coordinators to handle workshop logistics. Each workshop as a "coordinator" TA assigned. Just as the instructor is in charge of the content of the workshop, the coordinator will be in charge of the logistics of the course, including assigning people to staff the door and greet attendees, resolve technical issues, and be the point person for student questions not related to content. I've mostly assigned RStudio TAs as coordinators, but that wasn't possible in all cases. Should a workshop teaching team decide someone else should be coordinator, email me and I'll make the change.
+	4.	TA swaps are possible, but you have to negotiate them with other workshops. Because many of you know your instructors and TAs better than I, some teams may wish to swap TAs with other teams to maximize their skill sets. I'm fine with making changes, but in fairness to all concerned, I need an email approval from an instructor of both workshops involved in such a swap before I can finalize those changes. I leave it to you to negotiate such deals; please don't put me in the middle of those negotiations.
+	5.	More info is still to come. I'll be distributing room assignments, microphone times, and surveys for you to assign students as more of that information is finalized.
+You can see the assignments using the link below:
+
+https://docs.google.com/spreadsheets/d/1NaOT5CgmTDJ5zCnnOSjBdbgUokfQXbsx9kXEAT2sx7g/edit?usp=sharing
+
+As you think about your plans for RStudio::conf, please remember that we're all meeting on Sunday afternoon, January 26, 2020,  at 5 PM Pacific Standard Time (room to be determined). We don't have any plans for the teaching staff that evening past the end of the meeting around 6 pm, so instructors may want to arrange get-togethers that evening to get to know you. I'll leave it to each instructor to decide whether and how they want to make those arrangements.
+
+Please email me if you have questions or concerns,
+Carl
+Carl Howe
+Director of Education,
+RStudio, Inc.
+carl@rstudio.com
++1 (617) 515-1819
+
+

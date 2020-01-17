@@ -1,0 +1,22 @@
+From: Carl Howe <carl@rstudio.com>
+Subject: RStudio::conf(2020) teaching contract attached
+Date: October 28, 2019 at 3:33:36 PM EDT
+To: "McNamara, Amelia A." <amelia.mcnamara@stthomas.edu>
+
+Hi Amelia,
+
+With October winding down, rstudio::conf(2020) is only about 3 months away, so this seems like a good time to get contracts signed; the conference will be here before we know it.
+
+Attached please find a contract for your review that covers your workshop teaching at rstudio::conf. While I'm hopeful I have your name and course spelled correctly (please check that and correct it if I didn't), please fill in your address in the blank highlighted in yellow and check to ensure that the fee amount agrees with what you were told when we invited you (believe it or not, sometimes values typed into spreadsheets can be wrong!).
+
+Should the contract terms meet with your approval, please sign and date it at the bottom and return to me. I'll also sign a copy and send it the completed contract back to you.
+
+With that done, you should also register for the conference. The registration code conf20_spkr should allow you to register with no fee.
+
+Thank you again for your willingness to lend us your talents for rstudio::conf(2020). I look forward to seeing you in San Francisco!
+Carl
+Carl Howe
+Director of Education,
+RStudio, Inc.
+carl@rstudio.com
++1 (617) 515-1819

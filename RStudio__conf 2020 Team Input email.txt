@@ -1,0 +1,35 @@
+From: Carl Howe <carl@rstudio.com>
+Subject: RStudio::conf 2020 Team Input
+Date: March 30, 2019 at 4:20:57 PM EDT
+To: Joe Cheng <joe@rstudio.com>, Nathan Stephens <nathan@rstudio.com>, Amanda Gadrow <amanda@rstudio.com>, Max Kuhn <Max@rstudio.com>, Hadley Wickham <hadley@rstudio.com>, Ferit Alburkrek <ferit@rstudio.com>, Roger Oberg <roger@rstudio.com>, Jim Clemens <jim.clemens@rstudio.com>
+Cc: Alison Hill <alison@rstudio.com>, Greg Wilson <greg.wilson@rstudio.com>, Mine Cetinkaya-Rundel <mine@rstudio.com>, Garrett Grolemund <garrett@rstudio.com>
+
+Hi all,
+
+You are receiving this email because you lead a team within RStudio, and the Education Team would like your team's thoughts and suggestions as we plan workshops for RStudio::conf 2020.
+
+This RStudio Team Survey is one of two surveys that the RStudio Education team is conducting to gather input for rstudio::conf 2020: 
+
+1) A survey of workshop instructors, and 
+2) A survey of RStudio teams. 
+
+This survey is the team survey -- if you were an instructor, you've also already received a request to fill out the instructor survey as well. We're asking for input from the teams to ensure that we don't get stuck in a rut always doing the same workshops when teams may have new ideas or see new needs. 
+
+For this team survey, we have sent this survey to a leader of each team. Each team leader should choose whether to fill it out on the team's behalf (presumably as the result of a discussion in a team meeting or similar gathering) or to forward on the survey link to the team members for them to provide input directly. In the case of multiple team members replying to the survey, we'll aggregate the results by team name.
+
+You can find the team survey here:
+
+https://docs.google.com/forms/d/e/1FAIpQLSf9XhpDwTkQ53f7ZEgxY38Y8cdKTUFxcjSyvM-_D4SnK9lQHA/viewform?usp=sf_link
+
+We'd appreciate it if you would fill out this form before April 15 to give us adequate time to analyze the data before we decide on the workshop lineup in May; it shouldn't require more than 5 minutes of your time.
+
+While I'm sending out the links to this survey today, I'm out of the country for the next few weeks -- if you have questions about the survey, please contact Alison Hill who is coordinating the data gathering for the Education Team.
+
+We look forward to your feedback to improve our workshops in 2020; we thank you in advance for taking the time.
+Carl
+Carl Howe
+Director of Education,
+RStudio, Inc.
+carl@rstudio.com
++1 (617) 515-1819
+

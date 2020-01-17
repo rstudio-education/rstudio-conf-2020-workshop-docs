@@ -1,0 +1,33 @@
+From: Carl Howe <carl@rstudio.com>
+Subject: RStudio::conf 2020 Instructor Survey
+Date: March 30, 2019 at 3:53:06 PM EDT
+To: Yihui Xie <yihui@rstudio.com>, Alison Hill <alison@rstudio.com>, Max Kuhn <Max@rstudio.com>, Alex Hayes <Alex@rstudio.com>, Edgar@rstudio.com, James Blair <james.blair@rstudio.com>, Hadley Wickham <hadley@rstudio.com>, Kevin Kuo <kevin.kuo@rstudio.org>, Sigrid Keydana <Sigrid@rstudio.com>, Winston Chang <winston@rstudio.com>, Andrie de Vries <andrie@rstudio.com>, Sean Lopp <sean@rstudio.com>, Kelly O'Briant <kelly.obriant@rstudio.com>, Mine Cetinkaya-Rundel <mine@rstudio.com>, Garrett Grolemund <garrett@rstudio.com>, Jenny Bryan <jenny@rstudio.com>, Jim Hester <james.hester@rstudio.com>, Greg Wilson <greg.wilson@rstudio.com>
+
+Hi all,
+
+You are receiving this email because you taught a workshop at RStudio::conf 2019, and the Education team would like to incorporate your feedback and suggestions from that experience as we plan workshops for RStudio::conf 2020.
+
+This RStudio Workshop Instructor Survey is one of two surveys that the RStudio Education team is conducting to gather input for rstudio::conf 2020: 
+
+1) A survey of workshop instructors, and 
+2) A survey of RStudio teams. 
+
+Please fill out the survey at the following address to provide your feedback
+
+https://docs.google.com/forms/d/e/1FAIpQLSco3SNOhg7Cz3fd3AwoNL-7GKx6aEgDTzH7KenGMwaYbuSwpw/viewform?usp=sf_link
+
+If you were involved in more than one workshop, please fill out the form one time for each workshop you taught. You'll have the opportunity to select the workshop you are providing feedback for in question 1.
+
+We'd appreciate it if you would fill out this form before April 15 to give us adequate time to analyze the data before we decide on the workshop lineup in May; it shouldn't require more than 5 minutes of your time.
+
+We appreciate your teaching in 2019 and we look forward to your feedback to improve our workshops in 2020!
+
+Thank you in advance for taking the time to help us plan,
+Carl
+Carl Howe
+Director of Education,
+RStudio, Inc.
+carl@rstudio.com
++1 (617) 515-1819
+
+
