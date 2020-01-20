@@ -1,8 +1,3 @@
-From: Carl Howe <carl@rstudio.com>
-Subject: RStudio::conf 2020 Instructor Survey
-Date: March 30, 2019 at 3:53:06 PM EDT
-To: Yihui Xie <yihui@rstudio.com>, Alison Hill <alison@rstudio.com>, Max Kuhn <Max@rstudio.com>, Alex Hayes <Alex@rstudio.com>, Edgar@rstudio.com, James Blair <james.blair@rstudio.com>, Hadley Wickham <hadley@rstudio.com>, Kevin Kuo <kevin.kuo@rstudio.org>, Sigrid Keydana <Sigrid@rstudio.com>, Winston Chang <winston@rstudio.com>, Andrie de Vries <andrie@rstudio.com>, Sean Lopp <sean@rstudio.com>, Kelly O'Briant <kelly.obriant@rstudio.com>, Mine Cetinkaya-Rundel <mine@rstudio.com>, Garrett Grolemund <garrett@rstudio.com>, Jenny Bryan <jenny@rstudio.com>, Jim Hester <james.hester@rstudio.com>, Greg Wilson <greg.wilson@rstudio.com>
-
 Hi all,
 
 You are receiving this email because you taught a workshop at RStudio::conf 2019, and the Education team would like to incorporate your feedback and suggestions from that experience as we plan workshops for RStudio::conf 2020.

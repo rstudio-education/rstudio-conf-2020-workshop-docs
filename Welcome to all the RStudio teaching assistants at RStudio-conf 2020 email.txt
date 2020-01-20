@@ -1,8 +1,3 @@
-From: Carl Howe <carl@rstudio.com>
-Subject: Welcome to all the RStudio teaching assistants at RStudio::conf 2020
-Date: August 15, 2019 at 3:07:10 PM EDT
-To: yim@rstudio.com, Daniel Chen <daniel.chen@rstudio.com>, grace@rstudio.com, Kelly O'Briant <kelly.obriant@rstudio.com>, josiah@rstudio.com, maya@rstudio.com, nichole@rstudio.com, desiree@rstudio.com, Mara Averick <mara@rstudio.com>, alex.gold@rstudio.com, carson@rstudio.com, thomas.pedersen@rstudio.com, Thomas Mock <thomas@rstudio.com>, greg.lin@rstudio.com, ron@rstudio.com, joyce@rstudio.com, therese@rstudio.com, daniel.rodriguez@rstudio.com, max.held@rstudio.com, Romain Francois <romain@rstudio.com>, Hadrien Dykiel <hadrien@rstudio.com>, ingrid@rstudio.com, Samantha Toet <samantha@rstudio.com>, Ian Pylvainen <ian@rstudio.com>, barret@rstudio.com, taner@rstudio.com
-
 Hi all,
 
 First of all, thank you all for signing up to be a TA at rstudio::conf 2020. This email is your official confirmation that we're counting on you to attend and that you'll be one of the more than 100 instructors and TAs we have running workshops this year. Assuming we sell out the workshops (and we always have in the past), you'll be helping us host more than 1,500 workshop students at the conference. Your willingness to help is part of what makes this a unique and valuable event.

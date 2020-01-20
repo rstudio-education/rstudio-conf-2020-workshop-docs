@@ -1,9 +1,3 @@
-From: Carl Howe <carl@rstudio.com>
-Subject: RStudio::conf 2020 Team Input
-Date: March 30, 2019 at 4:20:57 PM EDT
-To: Joe Cheng <joe@rstudio.com>, Nathan Stephens <nathan@rstudio.com>, Amanda Gadrow <amanda@rstudio.com>, Max Kuhn <Max@rstudio.com>, Hadley Wickham <hadley@rstudio.com>, Ferit Alburkrek <ferit@rstudio.com>, Roger Oberg <roger@rstudio.com>, Jim Clemens <jim.clemens@rstudio.com>
-Cc: Alison Hill <alison@rstudio.com>, Greg Wilson <greg.wilson@rstudio.com>, Mine Cetinkaya-Rundel <mine@rstudio.com>, Garrett Grolemund <garrett@rstudio.com>
-
 Hi all,
 
 You are receiving this email because you lead a team within RStudio, and the Education Team would like your team's thoughts and suggestions as we plan workshops for RStudio::conf 2020.
