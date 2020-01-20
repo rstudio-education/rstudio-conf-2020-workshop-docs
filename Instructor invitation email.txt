@@ -1,15 +1,10 @@
-From: Carl Howe <carl@rstudio.com>
-Subject: Would you be willing to teach a 2-day workshop at RStudio::conf 2020?
-Date: June 7, 2019 at 2:05:26 PM EDT
-To: Charlotte Wickham <cwickham@gmail.com>
+Hi <<instructor name>>
 
-Hi Charlotte,
+It's that time of year again: We at RStudio would like to invite you to present a 2-day workshop on <<workshop name>> at rstudio::conf 2020 in San Francisco. The workshop will run from <<dates and times>>.
 
-It's that time of year again: We at RStudio would like to invite you to present a 2-day workshop on Building Tidy Tools with Hadley Wickham at rstudio::conf 2020 in San Francisco. The workshop will run from 9 am to 5 pm Pacific Time on January 27 and 28, 2020.
+This year's conference will be host 18 2-day training workshops. RStudio offers you <<workshop amount>> plus expenses for the two days of teaching. RStudio will further reimburse you for your out of pocket economy travel, hotel expenses, and meals incurred during the workshops, as well as throughout the 2-day conference (including the conference registration fee).
 
-This year's conference will be host 18 2-day training workshops. RStudio offers you $10,000 plus expenses for the two days of teaching. RStudio will further reimburse you for your out of pocket economy travel, hotel expenses, and meals incurred during the workshops, as well as throughout the 2-day conference (including the conference registration fee).
-
-If you are interested in accepting this offer, please respond to this email and prepare the following materials by June 14:
+If you are interested in accepting this offer, please respond to this email and prepare the following materials by <<deadline date>>:
 
 	1.	An official title for your course to be listed on the conference Web site and in the conference marketing materials. You can of course use last year's. 
 	2.	A short (less than 250 words) abstract of the course describing what attendees will learn from your course. Again, last year's is fine, but if you want to revise it, that's good too. 
@@ -17,7 +12,7 @@ If you are interested in accepting this offer, please respond to this email and 
 	4.	A short (less than 250 words) biography. 
 	5.	A photograph of you for use in official conference materials. 
 
-Once we receive your indication of interest, RStudio will send you instructions on how to submit your materials and a completed contract for you to sign by June 21.
+Once we receive your indication of interest, RStudio will send you instructions on how to submit your materials and a completed contract for you to sign by <<deadline date>>.
 
 If you are not able or not interested in teaching this course, please respond as soon as possible so we can find another instructor.
 
@@ -26,10 +21,3 @@ Thank you for your work, and we hope you will join us in San Francisco for rstud
 Sincerely,
 
 Carl
-Carl Howe
-Director of Education,
-RStudio, Inc.
-carl@rstudio.com
-+1 (617) 515-1819
-
-
